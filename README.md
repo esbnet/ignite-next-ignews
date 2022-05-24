@@ -56,7 +56,7 @@ $ yarn install
 $ yarn dev
 ```
 ##  Licença
-MIT - 
+[MIT](../ignews/LICENSE)
 ## Créditos
 - 🚀 [Rocketseat](www.ignews.com.br) - aplicação do curso ignite
 - Edmilson Soares - [send 📨](esbnet@gmail.com) | [linkedin](https://www.linkedin.com/in/edmilson-soares/)
