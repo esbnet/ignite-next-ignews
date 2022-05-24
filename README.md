@@ -9,10 +9,9 @@
 
 ## Ignews - O Projeto
 
-O Ignews é um site de notícias pay-per-view. Qualquer pessoa pode acessar o site e ter um preview das notícias. Caso o visitante queira acessar as notícias na íntegra basta realizar a inscrição no site.
+O Ignews é um site de notícias pay-to-read. Qualquer pessoa pode acessar o site e ter um preview das notícias. Caso o visitante queira acessar as notícias na íntegra basta realizar a inscrição no site.
 
-O site permite 
-A aplicação é construída com modelo <strong>Serveless</strong>, sem necessidade de criar uma API externa para manipular os dados
+A aplicação foi construída com modelo Serveless, onde a API de dados é executando no lado do cliente, não sendo necessário acessar serviço externo.
 
 ## Techs
 - [NextJS](https://nextjs.org/) - Framework para construção de sites
